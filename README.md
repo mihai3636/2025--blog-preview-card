@@ -1,4 +1,4 @@
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [link](https://github.com/mihai3636/2025--blog-preview-card)
+- Live Site URL: [link](https://mihai3636.github.io/2025--blog-preview-card/)
