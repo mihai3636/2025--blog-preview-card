@@ -1,0 +1,6 @@
+/* Under 432px */
+@media (max-width: 27rem) {
+  html {
+    font-size: 50%;
+  }
+}

@@ -22,5 +22,5 @@ body {
   justify-content: center;
   align-items: center;
 
-  background-color: blue;
+  background-color: var(--clr-primary);
 }
